@@ -11,3 +11,7 @@ this is just a simple script that lets you search for specific byte patterns in 
 1. Run the script as administrator and enter the PID of the process.
 2. Input the byte pattern to search.
 3. The tool will display the found addresses and memory content.
+
+# Requirements
+- Python 3.x
+- psutil (pip install psutil)
